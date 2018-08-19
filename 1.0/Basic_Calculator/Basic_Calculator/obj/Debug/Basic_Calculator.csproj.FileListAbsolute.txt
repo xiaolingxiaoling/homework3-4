@@ -1,0 +1,38 @@
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe.config
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.pdb
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csprojResolveAssemblyReference.cache
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.calculator.resources
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.GenerateResource.Cache
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.exe
+c:\users\brant denherder\documents\visual studio 2015\Projects\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.pdb
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe.config
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.exe
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.pdb
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.pdb
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.calculator.resources
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\Brant DenHerder\Dropbox\Brant Projects\CS480\CS480_SimpleCalculator\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe.config
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.pdb
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.calculator.resources
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.exe
+C:\Users\ASUS\Desktop\CS480_SimpleCalculator-master\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.pdb
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe.config
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.pdb
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.calculator.resources
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.exe
+C:\Users\ASUS\Desktop\计算器\2.0\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.pdb
